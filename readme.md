@@ -10,7 +10,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 # Todo & Paste Link
 
-I have created simple todo & paste link app using Laravel framework within around 2.5 hours including front-end and back-end code just only for learning purpose.
+I have created simple todo & paste link app using Laravel framework just only for learning purpose.
 Feel free to use this app.
 
 ## Screenshot
